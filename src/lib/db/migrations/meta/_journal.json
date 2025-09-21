@@ -15,6 +15,13 @@
       "when": 1758448999070,
       "tag": "0001_melodic_serpent_society",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1758459955788,
+      "tag": "0002_panoramic_malcolm_colcord",
+      "breakpoints": true
     }
   ]
 }
